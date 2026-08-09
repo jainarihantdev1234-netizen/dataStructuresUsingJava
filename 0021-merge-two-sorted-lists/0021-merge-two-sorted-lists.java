@@ -39,18 +39,10 @@ class Solution {
 
         
         if(t1 == null){
-            while(t2 != null){
-                t.next = t2;
-                t2 = t2.next;
-                t = t.next;
-            }
+            t.next = t2;
         }
         else{
-            while(t1 != null){
-                t.next = t1;
-                t1 = t1.next;
-                t = t.next;
-            }
+            t.next = t1;
         }
         return d.next;
     }
