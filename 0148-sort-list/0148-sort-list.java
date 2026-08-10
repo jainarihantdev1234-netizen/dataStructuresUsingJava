@@ -27,20 +27,15 @@ class Solution {
                 t = t.next;
             }
         }
-
-        
         if(t1 == null){
             t.next = t2;
         }
         else{
             t.next = t1;
         }
-        temp1 = d.next;
-        return temp1;
+        return d.next;
+        
     }
-
-
-    
     public ListNode sort(ListNode temp1,int size){
         if(temp1.next == null) return temp1;
         ListNode ullu1 = temp1;
@@ -56,16 +51,8 @@ class Solution {
 
         temp1 = sort(temp1,c1);
         temp2 = sort(temp2,c2);
-
-        
-        return merge(temp1,temp2);
-        
-        
+        return merge(temp1,temp2);   
     }
-
-
-
-    
     public ListNode sortList(ListNode head) {
         if(head == null) return null;
         ListNode temp = head;
