@@ -33,8 +33,8 @@ class Solution {
         else{
             t.next = t1;
         }
-        return d.next;
-        
+        temp1 = d.next;
+        return temp1;
     }
     public ListNode sort(ListNode temp1,int size){
         if(temp1.next == null) return temp1;
