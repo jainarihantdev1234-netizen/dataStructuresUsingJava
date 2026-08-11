@@ -11,7 +11,7 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null) return head;
-        ListNode pre = new ListNode(-1);
+        ListNode pre = null;
         ListNode temp = head;
         
         ListNode in = head;
@@ -23,7 +23,6 @@ class Solution {
             post = post.next;
         }
         in.next = pre;
-        temp.next = null;
         return in;
     }
 }
