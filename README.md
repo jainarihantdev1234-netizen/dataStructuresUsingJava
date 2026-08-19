@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0328-odd-even-linked-list) |
@@ -13,14 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
