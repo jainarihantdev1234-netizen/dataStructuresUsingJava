@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
