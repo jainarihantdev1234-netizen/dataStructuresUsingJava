@@ -16,34 +16,21 @@ class Solution {
         int carry = 0;
         ListNode temp = new ListNode(-1);
         ListNode per = temp;
-        while(itr1 != null && itr2 != null){
-            sum = itr1.val + itr2.val + carry;
+        while(itr1 != null || itr2 != null){
+            int num1 = 0;
+            int num2 = 0;
+            if(itr1 != null)num1 = itr1.val;
+            if(itr2 != null)num2 = itr2.val;
+            sum = num1 + num2 + carry;
             carry = sum/10;
             ListNode x = new ListNode(sum%10);
             temp.next = x;
             temp = temp.next;
-            itr1 = itr1.next;
-            itr2 = itr2.next;
+            if(itr1 != null) itr1 = itr1.next;
+            if(itr2 != null) itr2 = itr2.next;
 
         }
-        while(itr1 != null || itr2  != null){
-            if(itr1 != null){
-                sum = itr1.val + carry;
-            carry = sum/10;
-            ListNode x = new ListNode(sum%10);
-            temp.next = x;
-            temp = temp.next;
-            itr1 = itr1.next;
-            }
-            else{
-                sum = itr2.val + carry;
-            carry = sum/10;
-            ListNode x = new ListNode(sum%10);
-            temp.next = x;
-            temp = temp.next;
-            itr2 = itr2.next;
-            }
-        }
+        
         if(carry != 0){
             ListNode x = new ListNode(carry);
             temp.next = x;
