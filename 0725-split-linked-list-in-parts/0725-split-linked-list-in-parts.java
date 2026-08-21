@@ -23,14 +23,14 @@ class Solution {
         int x = len%k;
         
         while(x!= 0){
-            int count = 0;
+            
             ListNode d = new ListNode(-1);
             ListNode temp = d;
-            while(count != n+1){
+            for(int count = 0;count != n+1;count++){
+                
                 temp.next = itr;
                 itr = itr.next;
                 temp = temp.next;
-                count++;
             }
             temp.next = null;
             list[i++] = d.next;
