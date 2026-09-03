@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
