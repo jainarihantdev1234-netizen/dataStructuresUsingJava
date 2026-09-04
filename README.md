@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
