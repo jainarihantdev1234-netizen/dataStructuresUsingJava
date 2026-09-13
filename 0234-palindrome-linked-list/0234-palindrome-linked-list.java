@@ -10,33 +10,55 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null) return true;
-        ListNode slow = head;
-        ListNode fast = head;
-        while( fast.next != null && fast.next.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        // if(head == null || head.next == null) return true;
+        // ListNode slow = head;
+        // ListNode fast = head;
+        // while( fast.next != null && fast.next.next != null){
+        //     slow = slow.next;
+        //     fast = fast.next.next;
+        // }
+        // ListNode pre = null;
+        // ListNode in = slow.next;
+        // ListNode post = slow.next.next;
+        // while(post != null){
+        //     in.next = pre;
+        //     pre = in;
+        //     in = post;
+        //     post = post.next;
+        // }
+        // in.next = pre;
+        // slow.next = null;
+        // slow = head;
+        // fast = in;
+        // boolean flag = true;
+        // while(slow != null && fast != null ){
+        //     if(slow.val != fast.val) return false;
+        //     slow = slow.next;
+        //     fast = fast.next;
+        // }
+        // return true;
+
+        // Using Stack
+        Stack<Integer> st = new Stack<>();
+        ListNode temp = head;
+
+        while(temp != null){
+            st.push(temp.val);
+            temp = temp.next;
         }
-        ListNode pre = null;
-        ListNode in = slow.next;
-        ListNode post = slow.next.next;
-        while(post != null){
-            in.next = pre;
-            pre = in;
-            in = post;
-            post = post.next;
+        temp = head;
+        while(temp != null){
+            if(st.peek() == temp.val){
+                st.pop();
+            }
+            temp = temp.next;
         }
-        in.next = pre;
-        slow.next = null;
-        slow = head;
-        fast = in;
-        boolean flag = true;
-        while(slow != null && fast != null ){
-            if(slow.val != fast.val) return false;
-            slow = slow.next;
-            fast = fast.next;
+        if(st.isEmpty()){
+            return true;
         }
-        return true;
+        else{
+            return false;
+        }
 
     }
 }
