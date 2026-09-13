@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
