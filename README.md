@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0239-sliding-window-maximum) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
