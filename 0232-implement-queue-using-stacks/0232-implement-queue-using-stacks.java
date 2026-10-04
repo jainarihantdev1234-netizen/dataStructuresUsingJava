@@ -9,32 +9,43 @@ class MyQueue {
     }
     
     public void push(int x) {
-        if(first.isEmpty()) {
-            first.push(x);
-            return;
-        }
-        while(!first.isEmpty()){
-            second.push(first.pop());
-        }
-        second.push(x);
-        while(!second.isEmpty()){
-            first.push(second.pop());
-        }
-        return;
+    //     if(first.isEmpty()) {
+    //         first.push(x);
+    //         return;
+    //     }
+    //     while(!first.isEmpty()){
+    //         second.push(first.pop());
+    //     }
+    //     second.push(x);
+    //     while(!second.isEmpty()){
+    //         first.push(second.pop());
+    //     }
+    //     return;
+    // }
+        first.push(x);
     }
     
     public int pop() {
-        if(first.isEmpty()) return -1;
-        return first.pop();
+        // if(first.isEmpty()) return -1;
+        // return first.pop();
+        int y = peek();
+        second.pop();
+        return y;
     }
     
     public int peek() {
-        if(first.isEmpty()) return -1;
-        return first.peek();
+        // if(first.isEmpty()) return -1;
+        // return first.peek();
+        if(second.isEmpty()){
+            while(!first.isEmpty()){
+                second.push(first.pop());
+            }
+        }
+        return second.peek();
     }
     
     public boolean empty() {
-        if(first.isEmpty()) return true;
+        if(first.isEmpty() && second.isEmpty()) return true;
         return false;
     }
 }
