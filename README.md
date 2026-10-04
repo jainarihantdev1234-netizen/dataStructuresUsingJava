@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
@@ -98,9 +99,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
