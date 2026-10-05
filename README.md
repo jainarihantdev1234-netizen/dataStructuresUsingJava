@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0415-add-strings) |
+| [0649-dota2-senate](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
