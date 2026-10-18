@@ -30,7 +30,10 @@ class Solution {
             lvl2 = levels(root.right);
         }
         int diff = (lvl1 - lvl2);
-        if(diff > 1 || diff < -1) flag = false;
+        if(diff > 1 || diff < -1){
+            flag = false;
+            return;
+        }         
         preorder(root.left);
         preorder(root.right);
     }
