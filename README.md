@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0142-linked-list-cycle-ii) |
 ## Depth-First Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0239-sliding-window-maximum) |
 | [0946-validate-stack-sequences](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0144-binary-tree-preorder-traversal) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0144-binary-tree-preorder-traversal) |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainarihantdev1234-netizen/dataStructuresUsingJava/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
